@@ -1,0 +1,6 @@
+$ORDER_ID
+<table border="1">
+$ORDER_DETAIL
+</table>
+
+
